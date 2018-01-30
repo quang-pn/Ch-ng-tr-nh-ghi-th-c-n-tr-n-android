@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_ddceadc975dd20ccfde3641a818c020e576649be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\79a17373247e72e1340324773ddaf311f2ae9616\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_10174fea54c4d1a5ce4e18dc7721573fcd51aa21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\00e157c7d3ec4095ab14255615606b55f7262154\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_f04728679986681dba7b6e06da65eaa3a7d706de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\e921ccb53e7b8c2a26b51ed2d84b67d90a7588f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_53bf6469940b51765e6f5477fde886ebcd9a2e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\4c57a726170a5b10046988dabae3f8e181981097\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_3bbdfe179161497828747a75d17e490051a62aa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4dc59e64ed4dc1c21e1d99b0e078947f3b04c208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\585ed35b13fdc16813cd12827cd5e1d2cc19df5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_d3f64fc57c4cbe6fb624ea104c7ef2d6b56e3d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\535fd99967e3e841b713f1b55a3494383a171eee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_3580d95fc67dfab873bf2a0593f5f8576317461e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\afd5de65e9ee530338b675c5a53feb255d02db41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_e51d0cb5e0f246e0e32752dbb9e13becfb7ac1a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\7b1ba772ad9d2bcf113c41a92150d076ed47e49a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_0707fd94408e49bdd3bd0e3cb4b3d3cf064d360c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\8d06d0ed91f979f1d890c33604e62d2b2ab022fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_9cb0eec7af3844a6563aabe1a66cd083d35dd5d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\29d0b74747cc3bf24262da8886c05d6330dc3423\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_037d661785ca0a86c71dccef55b2a3b9381f0f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\1ec5eb920aa4c4b9bfbdac71abfc7ae046be6c50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_c79d549b46e7fd88889597fa59a5f495a1102f10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\0bb6c8b74317631ed9c5d2a4d217db2aaf9c60e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_37ca80619918c436d59c5a4376eacf5340afe50c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\b32c56b347a52cd3dc5767c6b0f374c5fba8148f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_d550e44283968e5b989bd5a154b4e7e99e81ee15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\binhtanngai\.android\build-cache\732d228ae4386ab9263c0fdc158f2f1016eef77f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\binhtanngai\AndroidStudioProjects\OrderFood-master\app\build\intermediates\pre-dexed\debug\classes_f79140a245306a7dff3d1e9c6e82747f01940328.jar" />
+    </item>
+
+</items>
